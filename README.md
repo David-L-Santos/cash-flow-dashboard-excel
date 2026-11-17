@@ -4,9 +4,9 @@ Planilha de **fluxo de caixa e resultado mensal** com dois regimes (caixa e comp
 
 > **Aviso:** projeto desenvolvido para estudo, a partir do projeto final do curso *Excel Completo do Básico ao Avançado* (Udemy). Todos os dados são **fictícios**.
 
-![Dashboard financeiro 2018](imagens/dashboard-2018.png)
+![Dashboard financeiro 2018](Imagens/dashboard-2018.png)
 
-![Dashboard financeiro 2019](imagens/dashboard-2019.png)
+![Dashboard financeiro 2019](Imagens/dashboard-2019.png)
 
 ---
 
@@ -47,13 +47,13 @@ Os dados cobrem de **ago/2017 a jun/2019**, com cerca de **460 lançamentos** (2
 ## 📸 Telas
 
 ### Início
-![Tela inicial](imagens/inicio.png)
+![Tela inicial](Imagens/inicio.png)
 
 ### Registro das entradas de caixa
-![Registro de entradas](imagens/registro-entradas.png)
+![Registro de entradas](Imagens/registro-entradas.png)
 
 ### Fluxo de caixa e resultado mensal (2018)
-![Fluxo consolidado](imagens/fluxo-consolidado.png)
+![Fluxo consolidado](Imagens/fluxo-consolidado.png)
 
 ## 🔎 O que os dados mostram
 
@@ -86,4 +86,4 @@ Ou seja: a empresa fechou 2018 no azul, mas o primeiro semestre de 2019 consumiu
 **David Lucas dos Santos**
 Estudante de Análise e Desenvolvimento de Sistemas (USCS) · Técnico em Automação Industrial
 
-[LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) · [GitHub](https://github.com/SEU-USUARIO)
+[LinkedIn](https://www.linkedin.com/in/david-lucas-ads/) · [GitHub](https://github.com/David-L-Santos)
