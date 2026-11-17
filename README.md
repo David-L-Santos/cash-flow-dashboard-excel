@@ -80,7 +80,7 @@ Ou seja: a empresa fechou 2018 no azul, mas o primeiro semestre de 2019 consumiu
 
 - Dados fictícios, de ago/2017 a jun/2019: os meses de jul a dez/2019 aparecem zerados.
 - Projeto feito em Excel; as tabelas dinâmicas precisam ser atualizadas (**Dados > Atualizar tudo**) após novos lançamentos.
-
+- As colunas Conta Vencida e Dias de Atraso usam a data de hoje (TODAY()), então os valores crescem com o tempo.
 ## 👤 Autor
 
 **David Lucas dos Santos**
